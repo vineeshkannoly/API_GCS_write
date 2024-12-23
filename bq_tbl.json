@@ -1,0 +1,21 @@
+{
+    "BigQuery Schema" :[
+        {
+            "name" : "HOMETEAM",
+            "type" : "string"
+        },
+        {
+            "name" : "AWAYTEAM",
+            "type" : "string"
+        },
+        {
+            "name" : "HSCORE",
+            "type" : "string"
+        },
+        {
+            "name" : "ASCORE",
+            "type" : "string"
+        }
+
+    ]
+}
